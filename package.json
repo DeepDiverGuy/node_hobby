@@ -1,0 +1,11 @@
+{
+  "name": "node-server",
+  "version": "1.0.0",
+  "description": "A basic web server built with node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "M S K",
+  "license": "ISC"
+}
